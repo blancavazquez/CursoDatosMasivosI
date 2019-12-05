@@ -22,5 +22,7 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
   - Funciones hash sensibles a la localidad
   - Métodos para altos grados de similitud
   - Aplicaciones
+  
 **4. Algoritmos para flujos de datos**
+
 **5. Algoritmos de memoria externa**
