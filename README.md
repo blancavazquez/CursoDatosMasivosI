@@ -3,11 +3,11 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
 
 ## Temario
 1. Conceptos básicos
-    a. Definición y características
-    b. Generación, procedencia y preparación de datos
-    c. El principio de Bonferri
-    d. Privacidad y riesgo
-    e. Modelos de computación para datos masivos
+a. Definición y características
+b. Generación, procedencia y preparación de datos
+c. El principio de Bonferri
+d. Privacidad y riesgo
+e. Modelos de computación para datos masivos
 2. Modelo de mapeo y reducción
 3. Búsqueda de elementos similares
 4. Algoritmos para flujos de datos
