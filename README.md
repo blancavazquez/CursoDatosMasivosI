@@ -9,6 +9,12 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
   - Privacidad y riesgo
   - Modelos de computación para datos masivos
 2. Modelo de mapeo y reducción
+  - Sistema de almacenamiento y procesamiento distribuido
+  - Modelo de programación
+  - Algoritmos con el modelo de mapeo y reducción
+  - Extensiones
+  - El modelo costo-comunicación
+  - Teoría de la complejidad para el modelo de mapeo y reducción
 3. Búsqueda de elementos similares
 4. Algoritmos para flujos de datos
 5. Algoritmos de memoria externa
