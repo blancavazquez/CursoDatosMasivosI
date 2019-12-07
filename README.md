@@ -41,7 +41,7 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
   - Estructuras de datos estáticos y dinámicos
   
   ## Ambiente de programación
-  En este curso las herramientas de programación que se emplearán son las siguientes:
-  -
-  -
-  -
+
+En este curso las herramientas de programación que se emplearán son las siguientes:
+
+a, b, c
