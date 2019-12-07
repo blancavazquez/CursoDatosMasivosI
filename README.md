@@ -39,3 +39,9 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
   - Ordenamiento
   - Búsqueda
   - Estructuras de datos estáticos y dinámicos
+  
+  ## Ambiente de programación
+  En este curso las herramientas de programación que se emplearán son las siguientes:
+  -
+  -
+  -
