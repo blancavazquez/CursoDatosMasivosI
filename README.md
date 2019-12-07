@@ -5,7 +5,7 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
 **1. Conceptos básicos**
   - Definición y características
   - Generación, procedencia y preparación de datos
-  - El principio de Bonferri
+  - El principio de Bonferroni
   - Privacidad y riesgo
   - Modelos de computación para datos masivos
   
@@ -24,5 +24,18 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
   - Aplicaciones
   
 **4. Algoritmos para flujos de datos**
+  - Modelos de flujo de datos
+  - Muestreo
+  - Filtrado
+  - Conteo
+  - Estimación de momentos
+  - Búsqueda de los elementos más comunes
 
 **5. Algoritmos de memoria externa**
+  - Modelo de memoria externa
+  - Modelo de caché inconsciente
+  - Cotas fundamentales de operaciones de entrada y salida
+  - Escaneo
+  - Ordenamiento
+  - Búsqueda
+  - Estructuras de datos estáticos y dinámicos
