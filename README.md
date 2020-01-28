@@ -1,5 +1,5 @@
 ## Curso de Datos Masivos, UNAM
-Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo del curso de #liga_pag_web
+Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo del curso de [Datos Masivos I](http://turing.iimas.unam.mx/~gibranfp/cursos/datos_masivos_i/)
 
 ## Temario
 **1. Conceptos básicos**
