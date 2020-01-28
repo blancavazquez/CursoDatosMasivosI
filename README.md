@@ -47,7 +47,7 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
 
 ## Lugar
 - Salón 201, segundo piso del anexo del IIMAS (clases teóricas)
-- Sala A y B, tercer piso del anexo del IIMAs (clases prácticas)
+- Sala A y B, tercer piso del anexo del IIMAS (clases prácticas)
 
 ## Criterios de evaluación
 **4 exámenes parciales escritos (50%)**
@@ -71,5 +71,4 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
 
 ## Ambiente de programación
 En este curso las herramientas de programación que se emplearán son las siguientes:
-
-a, b, c
+- [AWS Educate] (https://aws.amazon.com/es/education/awseducate/)
