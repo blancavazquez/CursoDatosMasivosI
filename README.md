@@ -71,4 +71,4 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
 
 ## Ambiente de programación
 En este curso las herramientas de programación que se emplearán son las siguientes:
-- [AWS Educate] (https://aws.amazon.com/es/education/awseducate/)
+[AWS Educate](https://aws.amazon.com/es/education/awseducate/)
