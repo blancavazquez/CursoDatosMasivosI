@@ -1,5 +1,5 @@
 ## Curso de Datos Masivos, UNAM
-Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo del curso de Datos Masivos I impartido en la [Licenciatura en Ciencia de Datos](https://cienciadatos.iimas.unam.mx/)
+Este repositorio contiene las diapositivas, libretas de trabajo y tareas del curso de Datos Masivos I impartido en la [Licenciatura en Ciencia de Datos](https://cienciadatos.iimas.unam.mx/)
 
 ## Temario
 **1. Conceptos básicos**
@@ -42,25 +42,14 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
   
  ## Horario
 - Martes 10:00am a 11:30am (teoría)
-- Miércoles 14:00pm a 16:00pm (práctica)
+- Miércoles 13:00pm a 15:00pm (práctica)
 - Jueves 10:00am a 11:30am(teoría)
 
-## Lugar
-- Salón 201, segundo piso del anexo del IIMAS (clases teóricas)
-- Sala A y B, tercer piso del anexo del IIMAS (clases prácticas)
-
 ## Criterios de evaluación
-**4 exámenes parciales escritos (50%)**
-  - 27 de febrero: Conceptos básicos y modelo de mapeo y reducción
-  - 24 de marzo: Búsqueda de elementos similares
-  - 21 de abril: Algoritmos para flujos de datos
-  - 21 de mayo: Algoritmos de memoria externa
-  
- **4 evaluaciones prácticas (50%)**
-  - 26 de febrero: Conceptos básicos y modelo de mapeo y reducción
-  - 25 de marzo: Búsqueda de elementos similares
-  - 22 de abril: Algoritmos para flujos de datos
-  - 20 de mayo: Algoritmos de memoria externa
+- Proyectos (50%)
+- Tareas (30%)
+- Exámenes (10%)
+- Participación (10%)
 
 ## Profesores
 **Blanca Hilda Vázquez Gómez**
@@ -71,4 +60,6 @@ Este repositorio contiene las diapositivas, los cuadernos y código de ejemplo d
 
 ## Ambiente de programación
 En este curso las herramientas de programación que se emplearán son las siguientes:
+- [Google Colab](https://colab.research.google.com/)
 - [AWS Educate](https://aws.amazon.com/es/education/awseducate/)
+- [Databricks](https://databricks.com/)
