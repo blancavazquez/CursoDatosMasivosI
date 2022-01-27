@@ -1,4 +1,4 @@
-## Curso de Datos Masivos, UNAM
+## Curso de Datos Masivos, IIMAS-UNAM
 Este repositorio contiene las diapositivas, libretas de trabajo y tareas del curso de Datos Masivos I impartido en la [Licenciatura en Ciencia de Datos](https://cienciadatos.iimas.unam.mx/) en el [IIMAS](https://www.iimas.unam.mx/).
 
 ## Temario
