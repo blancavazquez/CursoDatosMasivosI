@@ -45,9 +45,9 @@ Este repositorio contiene las diapositivas, libretas de trabajo y tareas del cur
  - Charu C. Aggarwal. Data Mining. Springer International Publishing, 2015. [Liga](https://doc.lagout.org/Others/Data%20Mining/Data%20Mining_%20The%20Textbook%20%5BAggarwal%202015-04-14%5D.pdf)
  - Jeffrey Vitter. Algorithms and Data Structures for External Memory. Now Foundations and Trends, 2008. [Liga](https://www.nowpublishers.com/article/Details/TCS-014)
  ## Horario
-- Martes 10:00am a 11:30am (teoría)
-- Miércoles 13:00pm a 15:00pm (práctica)
-- Jueves 10:00am a 11:30am(teoría)
+- Martes 10:00am a 11:30am
+- Miércoles 13:00pm a 15:00pm
+- Jueves 10:00am a 11:30am
 
 ## Criterios de evaluación
 - Proyectos (50%)
